@@ -12,5 +12,6 @@ model=nn.sequential(
     nn.Linear(1,4),
     nn.ReLU(),
     nn.Linear(4,1)
-)   
+)
+
 
